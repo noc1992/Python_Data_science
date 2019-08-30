@@ -1,8 +1,0 @@
-library("dplyr")
-
-data <- read.csv("sales.csv",encoding = "euc-kr")
-View(data)
-
-sparkle <- group_by(data, CATEGORY="일반탄산음료")
-
-write.csv(sparkle, file = "일반탄산음료_5조.csv")
