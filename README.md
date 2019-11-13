@@ -1,4 +1,5 @@
-# Python Data Science
+# Python 기본 
  
-### CIFAR-10, 100 예제 연습 
-### 크롤링 연습
+### Pandas Numpy sqlite
+### 시각화 
+### 
